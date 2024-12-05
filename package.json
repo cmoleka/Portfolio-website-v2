@@ -21,7 +21,7 @@
     "aos": "3.0.0-beta.6",
     "bootstrap": "4.6.2",
     "bootstrap-vue": "2.23.1",
-    "nuxt": "2.17.1",
+    "nuxt": "3.7.3",
     "nuxt-i18n": "6.28.1",
     "vue-animejs": "2.1.1",
     "vue-scroll-reveal": "1.0.11",
